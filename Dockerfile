@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/flannel:v0.13.0
+FROM quay.io/coreos/flannel:v0.13.0
